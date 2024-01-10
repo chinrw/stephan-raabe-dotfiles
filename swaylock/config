@@ -22,10 +22,10 @@ screenshots
 # image=~/.cache/current_wallpaper.jpg
 
 # Fade in time
-fade-in=1
+fade-in=2
 
 # Effect for background
-effect-blur=5x2
+effect-blur=7x5
 # effect-greyscale
 # effect-pixelate=5
 
@@ -44,6 +44,7 @@ indicator-caps-lock
 # Define all colors
 
 key-hl-color=00000066
+effect-vignette=0.5:0.5
 separator-color=00000000
 
 inside-color=00000033
